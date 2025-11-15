@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Language and Tools
+## 💻 Language and Tools
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,c,cpp,css,html,docker,arduino,linux,windows,notion,ps,pycharm,py,vscode,wordpress," />
