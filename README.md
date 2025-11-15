@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Language and Tools
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=,git,github,gitlab,atom,c,cpp,css,html,docker,arduino,linux,windows,notion,ps,phpstorm,pycharm,py,ubuntu,vim,vscode,wordpress," />
