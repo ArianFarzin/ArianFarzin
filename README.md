@@ -3,20 +3,7 @@
 
 ---
 
-<!-- 🎨 Stats Section (Dark Theme) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArianFarzin&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArianFarzin&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFarzin&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
 
 ## 👋 About Me
 
@@ -31,11 +18,22 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://skillicons.dev/icons?i=,git,github,gitlab,atom,c,cpp,css,html,docker,arduino,linux,windows,notion,ps,phpstorm,pycharm,py,ubuntu,vim,vscode,wordpress," />
+
+</p>
+
+---
+<!-- 🎨 Stats Section (Dark Theme) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArianFarzin&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArianFarzin&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianFarzin&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
