@@ -1,7 +1,3 @@
-<!-- 🔥 Banner -->
-<p align="center">
-  <img src="https://github.com/ArianFarzin/ArianFarzin/assets/banner-github.png" alt="Banner" />
-</p>
 
 <h1 align="center">Welcome to My GitHub 👋</h1>
 
